@@ -9,4 +9,5 @@
 <li> Book Mania complete code  - <a href="https://github.com/TechGram-Academy/book-mania-complete">Click here</a></li> 
 <li> Rupees Now starting code - <a href="https://github.com/TechGram-Academy/rupees-now-starter-code">Click here</a></li>
 <li> Rupees Now complete code - <a href="https://github.com/TechGram-Academy/rupees-now-complete">Click here</a></li>
+<li>Quotes App complete code- <a href="https://github.com/TechGram-Academy/Quotes-App-">Click here</a></li>
 </ul>
